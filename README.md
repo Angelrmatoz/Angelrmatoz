@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Angelrmatoz/Angelrmatoz/output/snake.svg" alt="Snake animation" />
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Angelrmatoz/Angelrmatoz/output/pacman-contribution-graph.svg">
 
 ###

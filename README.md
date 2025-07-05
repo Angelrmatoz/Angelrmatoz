@@ -34,8 +34,8 @@
 
 ###
 
-<br>
 <br clear="both">
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angelrmatoz/Angelrmatoz/output/pacman-contribution-graph-dark.svg">

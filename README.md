@@ -1,4 +1,4 @@
-<h2 align="center">Welcome! 🔥 Passion fuels me, discipline defines me 💪</h2>
+<h1 align="center">Welcome! 🔥 Passion fuels me, discipline defines me 💪</h1>
 
 ###
 

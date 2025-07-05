@@ -31,6 +31,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angelrmatoz&radius=500&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="148" alt="activity-graph graph"  />
 </div>
 
+<br clear="both">
+
 ###
 
 <br clear="both">

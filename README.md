@@ -4,7 +4,9 @@
 
 ###
 
-<p align="left">My name is Ángel Ricardo Matos Martínez and I’m a Junior Full‑Stack Web Developer from Santo Domingo, Dominican Republic.</p>
+<br clear="both">
+
+<p align="center">My name is Ángel Ricardo Matos Martínez and I’m a Junior Full‑Stack Web Developer from Santo Domingo, Dominican Republic.</p>
 
 ###
 

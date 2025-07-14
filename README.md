@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my first “Hello World” in JavaScript<br><br>📚 I’m currently learning GraphQL & Next.js through FullStackOpen<br><br>🎯 Goals: Build scalable, accessible web apps and contribute to innovative teams<br><br>🎲 Fun fact: As a kid I flashed custom ROMs on my Android phone before I ever wrote a single line of code</p>
+<p align="left">✨ Creating bugs since my first “Hello World” in JavaScript<br><br>📚 I’m currently learning GraphQL & React Native through FullStackOpen<br><br>🎯 Goals: Build scalable, accessible web apps and contribute to innovative teams<br><br>🎲 Fun fact: As a kid I flashed custom ROMs on my Android phone before I ever wrote a single line of code</p>
 
 ###
 

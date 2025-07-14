@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Welcome! 🔥 Passion fuels me, discipline defines me 💪</h1>
+<h1 align="center">Welcome! 🔥 Passion fuels me, discipline defines me 💪</h1>
 
 ###
 

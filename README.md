@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi! 🔥 Passion drives me, discipline and consistency shape who I am 💪</h1>
+<h1 align="center">💻 Junior Full‑Stack Dev: React frontends, Node.js backends.</h1>
 
 ###
 

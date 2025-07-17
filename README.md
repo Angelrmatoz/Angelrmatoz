@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Welcome! 🔥 Passion drives me, discipline and consistency shape who I am 💪</h1>
+<h2 align="center">Welcome! 🔥 Passion drives me, discipline and consistency shape who I am 💪</h2>
 
 ###
 

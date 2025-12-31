@@ -28,70 +28,32 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
 
   <!-- Frontend Web & Mobile -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="react native" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
 
   <!-- Backend / APIs -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/>
 
   <!-- Databases -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
 
   <!-- Testing -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mocha" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>
 
   <!-- Tools -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="android studio" width="40" height="40"/>
 </p>
-
-

@@ -73,9 +73,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
-  </a>
 
   <!-- Testing -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer">

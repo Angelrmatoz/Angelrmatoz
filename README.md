@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, React Native, Full-Stack web development, REST APIs, JWT authentication, component architecture**
 
-- 📫 How to reach me **angelrmatoz@gmail.com | 809-943-1211**
+- 📫 How to reach me **angelrmatoz@gmail.com**
 
 - ⚡ Fun fact **🎮 Passionate about PC gaming optimization | Exploring Linux gaming | Always learning new technologies**
 

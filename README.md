@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **🎮 Passionate about PC gaming optimization | Exploring Linux gaming | Always learning new technologies**
 
+- 👨‍💻 All of my projects are available at **[https://angel-dev-portfolio.vercel.app/](https://angel-dev-portfolio.vercel.app/)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Angelrmatoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Angelrmatoz" height="30" width="40" /></a>
@@ -76,11 +78,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
   <img width="12" />
 
-  <!-- 7. IDES & EDITORS (Nuevo) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo" />
-</p>
 

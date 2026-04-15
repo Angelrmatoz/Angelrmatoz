@@ -17,14 +17,40 @@
 - 👨‍💻 All of my projects are available at **[https://angel-dev-portfolio.vercel.app/](https://angel-dev-portfolio.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Angelrmatoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Angelrmatoz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ángel-ricardo-matos-martínez-1b135a268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ángel-ricardo-matos-martínez-1b135a268" height="30" width="40" /></a>
-<a href="https://fb.com/AngelRicardoMtM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AngelRicardoMtM" height="30" width="40" /></a>
-<a href="https://instagram.com/angelr_matos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angelr_matos" height="30" width="40" /></a>
-<a href="https://twitter.com/angelrmatoz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angelrmatoz1" height="30" width="40" /></a>
-<a href="https://hackerrank.com/angelrmatoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="angelrmatoz" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Angelrmatoz" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Angelrmatoz" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/ángel-ricardo-matos-martínez-1b135a268" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://fb.com/AngelRicardoMtM" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/angelr_matos" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://twitter.com/angelrmatoz1" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://hackerrank.com/angelrmatoz" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
